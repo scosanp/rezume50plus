@@ -28,3 +28,4 @@ https://scosanp.github.io/rezume50plus/
 - Формы заявки с сохранением лидов в `localStorage` для прототипа.
 - SEO: `robots.txt`, `sitemap.xml`, мета-теги, Schema.org.
 - Сгенерированный временный портрет эксперта: `assets/expert-portrait.jpg`.
+- Сгенерированные фоновые изображения в бруталистской эстетике: `assets/brutalist-hero.jpg`, `assets/brutalist-texture.jpg`.
